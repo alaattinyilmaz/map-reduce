@@ -16,3 +16,7 @@ In the following, we have two example invocations from the command line:
 
     python main.py COUNT 4 test01.txt
     python main.py CYCLE 3 test02.txt
+
+# specifications
+
+Please click [here](https://github.com/alaattinyilmaz/map-reduce/blob/main/map-reduce-specs.pdf) link to read all spesifications.
